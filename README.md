@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usama Zafar</h1>
 <h3 align="center">A passionate Design nad Fabrication Engineer</h3>
 
-<img align="right" alt="designing" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F3d-printing-by-get-animation--710794753673526034%2F&psig=AOvVaw0ww7TYaxHeDG4tsIugxD2i&ust=1729680750839000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiS34jpoYkDFQAAAAAdAAAAABAE">
+<img align="right" alt="designing" width="400" src="https://i.pinimg.com/originals/24/b6/e2/24b6e2586f77d2ece215921335650763.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaashi03&label=Profile%20views&color=0e75b6&style=flat" alt="kaashi03" /> </p>
 
 - 🔭 I’m currently working on **Electropolishing Machine**
