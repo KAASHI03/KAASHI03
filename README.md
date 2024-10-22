@@ -1,3 +1,4 @@
+![logo](https://github.com/KAASHI03/KAASHI03/blob/main/Black%20Flatlay%20Photo%20Motivational%20Finance%20Quote%20Facebook%20Cover.png)
 <h1 align="center">Hi 👋, I'm Usama Zafar</h1>
 <h3 align="center">A passionate Design nad Fabrication Engineer</h3>
 
